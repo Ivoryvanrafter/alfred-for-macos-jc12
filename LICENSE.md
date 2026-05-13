@@ -1,4 +1,4 @@
-
+Alfred for macOS new Workflow - VM-management and file-encryption is the best Alfred for macOS workflow, featuring VM-management and file-encryption. Safe, efficient, and
 
 
 
